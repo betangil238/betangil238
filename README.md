@@ -16,7 +16,7 @@ Civil engineer with expertise in full-stack development, proficient in programmi
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/daniel-betancur-giraldo-834291264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel betancur giraldo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daniel-betancur-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel betancur giraldo" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/betangil238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@betangil238" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/Mr.Cukarron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@betangil238" height="30" width="40" /></a>
 
