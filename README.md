@@ -14,7 +14,12 @@ Civil engineer with expertise in full-stack development, proficient in programmi
 
 > 💬 _***CHALLENGE FORUM ALURA:***_ In this challenge proposed by Alura, we created a forum where messages and comments are stored, integrating a CRUD (Create, Read, Update, Delete) functionality using the Spring Boot framework. <a href="https://github.com/betangil238/Foro">CHALLENGE FORUM ALURA💬</a>
 
+> 💬 _***PERSONAL BRIEFCASE:***_ On this occasion, we were asked to create a webpage using HTML and CSS to showcase our portfolio, entrepreneurial ventures, and supplementary information. <a href="https://betangil238.github.io/PracticaHTML/index.html">WEP PAGE WITH HTML AND CSS💬</a>
+
 > 💬 _***HACKATHON E-COMERCE GENERATION:***_ This time we had the challenge of creating an e-commerce platform for a stationery store in a creative way, seamlessly integrating the purchase buttons with the shopping cart. For this challenge, we used HTML, CSS, and JavaScript. <a href="https://betangil238.github.io/hackathon/">CHALLENGE E-COMERCE💬</a>
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
