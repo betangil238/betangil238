@@ -6,6 +6,8 @@
 Civil engineer with expertise in full-stack development, proficient in programming languages such as JAVA, JavaScript, and Python, experienced in SQL databases, Git, and Github. Additionally, skilled in HTML and CSS. Possesses an intermediate level of English (B1+) and demonstrates competencies in leadership, interpersonal relationship management, assertive communication, teamwork, goal orientation, and proactiveness.
 ## 💡 Projects
 
+> 💬 _***SOCIAL NETWORK:***_ Last FULL STACK project where I integrated all the concepts learned in the front end and back end, applying JavaScript and Java, databases, and different frameworks. <a href="https://betangil238.github.io/Handel/login.html">HANDEL PROJECT GENERATION COLOMBIA💬</a>
+
 > 💬 _***CHALLENGE HOTEL ALURA:***_ Integration of an API with the option to Create, Delete, Update, and Query reservation and guest data for a hotel, incorporating the backend using the Java programming language and databases using JPA. <a href="https://github.com/betangil238/ChallengeHotel">CHALLENGE HOTEL ALURA💬</a>
 
 > 💬 _***ENCRIPTOR AND DECRYPTOR OF CODE:***_ In this challenge proposed by Alura, we created a code encryptor and decryptor using HTML, CSS, and JavaScript, manipulating the DOM with this language. <a href="https://betangil238.github.io/EncriptadorDeCodigo/">CHALLENGE ENCRIPTOR AND DECRYPTOR OF CODE💬</a>
