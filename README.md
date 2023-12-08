@@ -6,6 +6,8 @@
 Engineer with expertise in full-stack development, proficient in programming languages such as JAVA, JavaScript, and Python, experienced in SQL databases, Git, and Github. Additionally, skilled in HTML and CSS. Possesses an intermediate level of English (B2) and demonstrates competencies in leadership, interpersonal relationship management, assertive communication, teamwork, goal orientation, and proactiveness.
 ## 💡 Projects
 
+> 💬 _***CREATOR TASKS:***_ With this project, I challenged myself to create an interface capable of managing tasks, allowing users to mark them as complete or pending. The interface provides options to delete existing tasks and create new ones. Ultimately, I implemented the project using React and utilized local storage for data management. <a href="https://betangil238.github.io/ReactTasks/">REACT TASK CREATOR💬</a>
+
 > 💬 _***SOCIAL NETWORK:***_ Last FULL STACK project where I integrated all the concepts learned in the front end and back end, applying JavaScript and Java, databases, and different frameworks. <a href="https://betangil238.github.io/Handel/login.html">HANDEL PROJECT GENERATION COLOMBIA💬</a>
 
 > 💬 _***CHALLENGE HOTEL ALURA:***_ Integration of an API with the option to Create, Delete, Update, and Query reservation and guest data for a hotel, incorporating the backend using the Java programming language and databases using JPA. <a href="https://github.com/betangil238/ChallengeHotel">CHALLENGE HOTEL ALURA💬</a>
